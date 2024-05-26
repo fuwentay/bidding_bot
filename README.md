@@ -1,6 +1,4 @@
-### Introduction
-
-Bidding bot that bids in the last 5 minutes of an auction with the minimal increment.
+## Documentation
 
 ### Updates
 
